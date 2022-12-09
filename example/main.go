@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 
-	"github.com/tiena2cva/go-log"
+	"github.com/nvti/go-log"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/tiena2cva/go-log
+module github.com/nvti/go-log
 
 go 1.19
 
